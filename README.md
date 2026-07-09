@@ -150,6 +150,6 @@ streamlit run app/streamlit_app.py
 
 **Dmytro Dimura**
 
-LinkedIn: *(add your profile)*
+LinkedIn: www.linkedin.com/in/dmytro-dimura
 
-GitHub: *(your profile)*
+
