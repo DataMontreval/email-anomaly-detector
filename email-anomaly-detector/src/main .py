@@ -153,7 +153,7 @@ print(
 # =====================================
 
 engine = create_engine(
-    "postgresql://postgres:tfh64es13@localhost:5432/email_db"
+   "postgresql://username:password@localhost:5432/email_db"
 )
 
 data.to_sql(
