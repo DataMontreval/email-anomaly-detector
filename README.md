@@ -146,6 +146,32 @@ streamlit run app/streamlit_app.py
 
 ---
 
+# Dashboard Preview
+
+## Main Dashboard
+
+The main dashboard provides an overview of the email security monitoring system, including key metrics, filtering options and detected anomalies.
+
+![Dashboard](images/dashboard.png)
+
+---
+
+## Risk Monitoring
+
+The system identifies the highest-risk events and visualizes the distribution of risk scores to help prioritize security investigations.
+
+![Risk Monitoring](images/risk_monitoring.png)
+
+![Risk Score Distribution](images/risk_monitoring2.png)
+
+---
+
+## Activity Analytics
+
+The dashboard also provides behavioral analytics, including email activity by user, country distribution and night-time activity monitoring.
+
+![Activity Analytics](images/analytics.png)
+
 ## Author
 
 **Dmytro Dimura**
